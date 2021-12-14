@@ -1,6 +1,6 @@
-<!-- #  <p align="center">Hi , I'm Manish<img align="center", src="https://www.shutterstock.com/image-vector/businessman-time-concept-office-worker-business-1080848549 width="200" height="200" /> -->
+#  <p align="center">Hi , I'm Manish 
+<!-- src="https://www.shutterstock.com/image-vector/businessman-time-concept-office-worker-business-1080848549 width="200" height="200" /> --> -->
 <p>  
-
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
