@@ -5,11 +5,11 @@
 
 
 ## I'm a  Student, Developer!!
+ 
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Recipe Website.
-- 🌱 I’m currently learning Node and Express.
+
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+
 - 😄 Pronouns: ManishYadav
 
 
