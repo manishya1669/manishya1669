@@ -1,6 +1,5 @@
 #  <p align="center">Hi , I'm Manish 
-<!-- src="https://www.shutterstock.com/image-vector/businessman-time-concept-office-worker-business-1080848549 width="200" height="200" /> --> -->
-<p>  
+
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
@@ -15,20 +14,13 @@
 
 ## Find me around web 🌎
 
-<!-- <a title="Portfolio, saurabhdaware.in" href="https://medhavimb.me/"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a>
-<!-- <p> -->
 
 <a href="https://www.linkedin.com/in/manish-yadav-59643021b/"><img src="https://img.shields.io/badge/-Manish Yadav-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-manishya1669@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a> -->
-</p> -->
+ 
+ <a href="https://stackoverflow.com/users/17553781/manishyadav"><img src="https://img.shields.io/badge/-StackOverflow-%23E44D27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff"/></a>
 
-<!-- <a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">
-<img src="https://raw.githubusercontent.com/medhavi11/Linkedin/main/174857.png?token=APHCJ56R2VFBAKSYG5I2WJTA76DX6" alt="Medhavi basera's LINKEDIN Profile" height="28" width="30">
-</a> -->
-<!-- <a href="https://dev.to/medhavi11">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="33" width="33">
-</a> -->
+
 
 
 
@@ -49,17 +41,7 @@
 
  ## 🛠 &nbsp; Languages and Tools:
 
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -89,7 +71,7 @@
 
  <br>
 <div>
- <br><br>
+ 
  
  
  
