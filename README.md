@@ -19,9 +19,8 @@
 <a href=""><img src="https://img.shields.io/badge/-manishya1669@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
  <a href="https://stackoverflow.com/users/17553781/manishyadav"><img src="https://img.shields.io/badge/-StackOverflow-%23E44D27?style=for-the-badge&logo=stackoverflow&logoColor=ffffff"/></a>
-
-
-
+ <a href="https://www.codewars.com/users/manishya1669
+"><img src="https://img.shields.io/badge/-CodeWar-%23E44D?style=for-the-badge&logo=Codewar&logoColor=white"/></a>
 
 
 <p align="center">
