@@ -1,6 +1,7 @@
-#  <p align="center">Hi , I'm Manish 
-
+#  <p align="center">Hi , I'm Manish
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<p> <h2>Love to </h2>  <div> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"></div>
+</p>
 
 
 ## I'm a  Student, Developer!!
