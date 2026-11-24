@@ -103,21 +103,23 @@ const manish = {
 
 ## 🧩 Problem solving
 
-<p align="center">
-  <a href="https://leetcode.com/manishya16699/"><img src="https://leetcard.jacoblin.cool/manishya16699?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode stats" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <b>LeetCode</b><br/><br/>
+      <a href="https://leetcode.com/manishya1669/"><img src="https://leetcard.jacoblin.cool/manishya1669?theme=dark&font=Fira%20Code&border=0" width="100%" alt="LeetCode stats" /></a>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <b>Stack Overflow</b><br/><br/>
+      <a href="https://stackoverflow.com/users/17553781/manishyadav"><img src="https://stackoverflow.com/users/flair/17553781.png?theme=dark" width="100%" alt="Stack Overflow profile" /></a>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <b>Codewars</b><br/><br/>
+      <a href="https://www.codewars.com/users/manishya1669"><img src="https://www.codewars.com/users/manishya1669/badges/large" width="100%" alt="Codewars rank" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/17553781/manishyadav"><img src="https://stackoverflow.com/users/flair/17553781.png?theme=dark" alt="Stack Overflow profile" /></a>
-  &nbsp;
-  <a href="https://www.codewars.com/users/manishya1669"><img src="https://www.codewars.com/users/manishya1669/badges/large" alt="Codewars rank" /></a>
-</p>
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishya1669&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
-</p>
 
 ## 📈 Contribution activity
 
@@ -125,12 +127,7 @@ const manish = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishya1669&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishya1669/manishya1669/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/manishya1669/manishya1669/output/github-snake.svg" alt="Snake eating my contributions" />
-  </picture>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="" />
