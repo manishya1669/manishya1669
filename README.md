@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-kappa-bice.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://builtbymanish.in"><img src="https://img.shields.io/badge/Portfolio-builtbymanish.in-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="builtbymanish.in" /></a>
   <a href="https://posttohired.in"><img src="https://img.shields.io/badge/PostToHired-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PostToHired" /></a>
   <a href="https://www.linkedin.com/in/manish-yadav-59643021b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/manishya16699/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
